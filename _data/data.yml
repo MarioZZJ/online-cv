@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: 郑哲浚
@@ -45,22 +45,17 @@ sidebar:
         link:
 
 career-profile:
-    title: EDUCATION INFO
+    title: KEYWORD
     summary: |
-        本科就读于武汉大学信息管理学院信息管理与信息系统专业，所在专业大类为教育部
-        学科评估 A+；在读期间连续三年获得优秀学生乙等奖学金（综合测评专业前 15%）
-        ，曾担任班级宣传委员、学习委员，校级学生吉他社团部长，作为项目负责人或
-        核心成员参与 2 项国家级、校级创新训练项目，及导师安排的其他项目。
-          - GPA: 3.78/4.00，推免测评排名：14/64，成绩排名：20/64。
+          - 实践
+          - 严谨
+          - 求真
 education:
     - degree: 本科, 信息管理与信息系统
       university: 武汉大学
       time: 2018.9 - 2022.6
       details: |
-        就读于武汉大学信息管理学院信息管理与信息系统专业，所在专业大类为教育部
-        学科评估 A+；在读期间连续三年获得优秀学生乙等奖学金（综合测评专业前 15%）
-        ，曾担任班级宣传委员、学习委员，校级学生吉他社团部长，作为项目负责人或
-        核心成员参与 2 项国家级、校级创新训练项目，及导师安排的其他项目。
+        本科就读于武汉大学信息管理学院信息管理与信息系统专业，所在专业大类为教育部学科评估 A+；在读期间连续三年获得优秀学生乙等奖学金（综合测评专业前 15%），曾担任班级宣传委员、学习委员，校级学生吉他社团部长，作为项目负责人或核心成员参与 2 项国家级、校级创新训练项目，及导师安排的其他项目。
           - GPA: 3.78/4.00，推免测评排名：14/64，成绩排名：20/64。
 experiences:
     - role: 商业分析岗(实习生)
@@ -76,13 +71,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      自学能力尚可，能够完成基本的数据获取、分析、可视化工作，略懂 Web 开发，了解一些常见的机器学习和自然语言处理方法。
     assignments:
       - title: 交互式搜索日志可视化看板
         link: "http://crafts.mariozzj.cn/wiki2008/"
-        tagline: "<br />获取维基百科2008年全年的搜索日志数据，对数据进行处理、筛选后入库。使用 eCharts、flask 框架制作可视化看板展示数据，利用 jQuery 和 eCharts 特性，使图表元素可点击交互，展示不同维度数据。<a href='https://1drv.ms/w/s!Al29nwIXwgIIgREVATsgOFOX30fE?e=sxgFQg'>详情</a>)"
+        tagline: "<br />获取维基百科2008年全年的搜索日志数据，对数据进行处理、筛选后入库。使用 eCharts、flask 框架制作可视化看板展示数据，利用 jQuery 和 eCharts 特性，使图表元素可点击交互，展示不同维度数据。<br /><a href='https://1drv.ms/w/s!Al29nwIXwgIIgREVATsgOFOX30fE?e=sxgFQg'>Report</a>"
 
       - title: 面向非正式科学交流分析的世界一流高校学术报告数据平台建设
         link: "http://dfc.mariozzj.cn/"
@@ -90,7 +83,7 @@ projects:
 
       - title: 人物传记文本挖掘
         link: "https://nerp.mariozzj.cn/"
-        tagline: "<br />项目获取了多篇人物传记全文文本，利用自然语言处理的方法对文本进行过滤、实体抽取、三元组标注，对三元组进行同质、异质分类，对谓词进行情感聚类等操作，生成人物关系和事件子图。利用社会网络分析的方法挖掘人物社团关系，利用文本计算的方法构建人物相似性模型，并搭建前端页面展示上述成果。<a href='https://1drv.ms/p/s!Al29nwIXwgIIgRZZrv8EpwWDX4GH?e=gX5jdZ'>展示</a>/n<a href='https://1drv.ms/w/s!Al29nwIXwgIIgRR3_XomwAznV828?e=LfCjMp'>报告</a>"
+        tagline: "<br />项目获取了多篇人物传记全文文本，利用自然语言处理的方法对文本进行过滤、实体抽取、三元组标注，对三元组进行同质、异质分类，对谓词进行情感聚类等操作，生成人物关系和事件子图。利用社会网络分析的方法挖掘人物社团关系，利用文本计算的方法构建人物相似性模型，并搭建前端页面展示上述成果。<a href='https://1drv.ms/p/s!Al29nwIXwgIIgRZZrv8EpwWDX4GH?e=gX5jdZ'>Slides</a>/n<a href='https://1drv.ms/w/s!Al29nwIXwgIIgRR3_XomwAznV828?e=LfCjMp'>Report</a>"
 
       - title: 2021美国大学生数学建模竞赛（最终获得M奖）
         link: "https://www.comap-math.com/mcm/2021Certs/2119572.pdf"
@@ -100,49 +93,41 @@ projects:
         link: "https://github.com/MarioZZJ/"
         tagline: "https://github.com/MarioZZJ/<br />机器学习、自然语言处理项目；我编写的一些实用小程序/插件"
 
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+publications:
+    title: Publications
+    intro: |
+      暂无转化为学术论文和专著的成果，这方面需要再多向前辈朋辈学习。
+    # papers:
+      # - title: The Art of Computer Programming
+      #   link: "#"
+      #   authors: Donald E. Knuth
+      #   conference: Addison-Wesley, 1968
 
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #   link: "#"
+      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
+      # - title: A syntax directed compiler for Algol 60
+      #   link: "#"
+      #   authors: Edgar T. Irons
+      #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 程序设计与 Web 开发
+      - name: Python 编程 &amp; Web 开发
         level: 90%
 
-      - name: 数据分析与可视化
+      - name: 数据分析 &amp; 可视化
         level: 90%
 
-      - name: 机器学习与自然语言处理
+      - name: 机器学习 &amp; 自然语言处理
         level: 85%
 
       - name: 社会网络分析方法
         level: 75%
-
-      # - name: Ruby on Rails
-      #   level: 85%
-
-      # - name: Sketch & Photoshop
-      #   level: 60%
 
 footer: >
     <a href="http://beian.miit.gov.cn/"><span>备案号：赣ICP备20002056号-2</span></a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42010602004261"><img class="icp-icon" src="https://blog.mariozzj.cn/image/gongan.png"><span>鄂公网安备 42010602004261号</span></a>
