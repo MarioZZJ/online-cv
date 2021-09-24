@@ -86,15 +86,20 @@ projects:
 
       - title: 面向非正式科学交流分析的世界一流高校学术报告数据平台建设
         link: "http://dfc.mariozzj.cn/"
-        tagline: "<br />该项目为<a href="http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=559378">2020年国家级大学生创新创业训练计划项目</a>。<br />项目获取了40余所学校3000+学院官网的学术报告数据，利用文本标注、信息抽取等自然语言处理方法将这些非结构化信息结构化处理，使用 Bootstrap、flask 框架初步完成数据平台建设。
+        tagline: "<br />该项目为<a href="http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=559378">2020年国家级大学生创新创业训练计划项目</a>。<br />项目获取了40余所学校3000+学院官网的学术报告数据，利用文本标注、信息抽取等自然语言处理方法将这些非结构化信息结构化处理，使用 Bootstrap、flask 框架初步完成数据平台建设。"
 
       - title: 人物传记文本挖掘
         link: "https://nerp.mariozzj.cn/"
         tagline: "<br />项目获取了多篇人物传记全文文本，利用自然语言处理的方法对文本进行过滤、实体抽取、三元组标注，对三元组进行同质、异质分类，对谓词进行情感聚类等操作，生成人物关系和事件子图。利用社会网络分析的方法挖掘人物社团关系，利用文本计算的方法构建人物相似性模型，并搭建前端页面展示上述成果。<a href='https://1drv.ms/p/s!Al29nwIXwgIIgRZZrv8EpwWDX4GH?e=gX5jdZ'>展示</a>/n<a href='https://1drv.ms/w/s!Al29nwIXwgIIgRR3_XomwAznV828?e=LfCjMp'>报告</a>"
 
       - title: 2021美国大学生数学建模竞赛（最终获得M奖）
-        link: ""
-        tagline: "使用社会网络分析中常见算法 PageRank 进行迭代改进，加入赛题数据中给出的流派特征和年代特征进行计算，建立音乐家影响力模型。使用 Gephi、Python的 NetworkX 程序包进行进一步的音乐家社会网络分析，抽取流派内子网络分析其特点，使用更充分的指标评价"
+        link: "https://www.comap-math.com/mcm/2021Certs/2119572.pdf"
+        tagline: "使用社会网络分析中常见算法 PageRank 进行迭代改进，加入赛题数据中给出的流派特征和年代特征进行计算，建立音乐家影响力模型。使用 Gephi、Python的 NetworkX 程序包进行进一步的音乐家社会网络分析，抽取流派内子网络分析其特点，使用更充分的指标评价。"
+
+      - title: 更多项目，见我的Github
+        link: "https://github.com/MarioZZJ/"
+        tagline: "https://github.com/MarioZZJ/<br />机器学习、自然语言处理项目；我编写的一些实用小程序/插件"
+
 # publications:
 #     title: Publications
 #     intro: |
@@ -121,17 +126,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 程序设计
-        level: 98%
+      - name: Python 程序设计与 Web 开发
+        level: 90%
 
       - name: 数据分析与可视化
-        level: 98%
+        level: 90%
 
       - name: 机器学习与自然语言处理
-        level: 98%
+        level: 85%
 
       - name: 社会网络分析方法
-        level: 95%
+        level: 75%
 
       # - name: Ruby on Rails
       #   level: 85%
