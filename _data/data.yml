@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -86,7 +86,7 @@ projects:
 
       - title: 面向非正式科学交流分析的世界一流高校学术报告数据平台建设
         link: "http://dfc.mariozzj.cn/"
-        tagline: "<br />该项目为<a href="http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=559378">2020年国家级大学生创新创业训练计划项目</a>。<br />项目获取了40余所学校3000+学院官网的学术报告数据，利用文本标注、信息抽取等自然语言处理方法将这些非结构化信息结构化处理，使用 Bootstrap、flask 框架初步完成数据平台建设。"
+        tagline: "<br />该项目为<a href='http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=559378'>2020年国家级大学生创新创业训练计划项目</a>。<br />项目获取了40余所学校3000+学院官网的学术报告数据，利用文本标注、信息抽取等自然语言处理方法将这些非结构化信息结构化处理，使用 Bootstrap、flask 框架初步完成数据平台建设。"
 
       - title: 人物传记文本挖掘
         link: "https://nerp.mariozzj.cn/"
