@@ -7,44 +7,41 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: 郑哲浚
+    tagline: 本科生
+    avatar: avatar.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: mariozzj@outlook.com
+    phone: +86 152 7912 4586
+    website: blog.mariozzj.cn #do not add http://
+    linkedin: MarioZZJ
+    xing: 
+    github: MarioZZJ
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://cv.mariozzj.cn/pdf
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: 汉语 zh-CN
+        level: 母语
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: 英语 en
+        level: 日常口语交际
 
     interests:
-      - item: Climbing
+      - item: 桌游
         link:
 
-      - item: Snowboarding
+      - item: 音乐
         link:
 
-      - item: Cooking
+      - item: 科技
         link:
 
 career-profile:
@@ -57,66 +54,26 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 管理学 学士(攻读中), 信息管理与信息系统
+      university: 武汉大学
+      time: 2018.9 - 2022.6
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        就读于武汉大学信息管理学院信息管理与信息系统专业，所在专业大类为教育部
+        学科评估 A+；在读期间连续三年获得优秀学生乙等奖学金（综合测评专业前 15%）
+        ，曾担任班级宣传委员、学习委员，校级学生吉他社团部长，作为项目负责人或
+        核心成员参与 2 项国家级、校级创新训练项目，及导师安排的其他项目。
+          - GPA: 3.78/4.00，推免测评排名：14/64，成绩排名：20/64。
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: 商业分析岗(实习生)
+      time: 2021.6 - 2021.8
+      company: 武汉京东世纪贸易有限公司
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        对京东集团湖北地区社区团购业务数据开展分析，对数据进行处理、分析、可视化，
+        与不同业务部门进行对接，优化数据呈现，推进数据支撑的商业决策落地。
+          - 独立完成 5 项业务数据看板的制作
+          - 编写多条定时取数 SQL 语句，自动化提供周期性数据支持
+          - 牵头完成省区数据数据开发体系落地，优化看板体验
+          - 运用购物篮分析/关联分析等方法对销售数据进行挖掘，产出分析报告
 projects:
     title: Projects
     intro: >
@@ -126,7 +83,7 @@ projects:
     assignments:
       - title: Velocity
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，乱数假文，"
 
       - title: DevStudio
         link: "#"
@@ -135,14 +92,6 @@ projects:
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -189,4 +138,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    <a href="http://beian.miit.gov.cn/"><span>备案号：赣ICP备20002056号-2</span></a><a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=42010602004261"><img class="icp-icon" src="/image/gongan.png"><span>鄂公网安备 42010602004261号</span></a>
